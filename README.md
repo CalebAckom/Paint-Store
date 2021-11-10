@@ -1,2 +1,2 @@
 # Paint-Store
-CSS: Color
+CSS Lesson: Color - Improved Styling
